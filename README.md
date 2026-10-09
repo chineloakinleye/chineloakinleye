@@ -30,6 +30,14 @@ An analysis of online retail traffic, conversion patterns, customer behavior, an
 
 [View my BrightCart project on GitHub](https://github.com/chineloakinleye/Brightcart-retail-performance)
 
+
+### 3. AlloyTower Inc. — Real Estate Data Analytics
+
+A collaborative project focused on real estate data centralization, market insights, and dashboard development. My contribution focused on data analytics and dashboards to support business reporting and decision-making.
+
+[View AlloyTower Project →](https://github.com/chineloakinleye/alloytower-real-estate-analytics)
+
+
 ## 🎯 What I Focus On
 
 - Turning business data into meaningful insights
