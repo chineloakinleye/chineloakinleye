@@ -1,4 +1,4 @@
-
+![Data Analytics Banner](Screenshot%202026-10-08%2010.08.33%20PM.png)
 # Hi, I'm Chinelo Akinleye 👋
 
 ### Data Analyst | Power BI | SQL | Business Intelligence
