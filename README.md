@@ -1,13 +1,14 @@
 ![Data Analytics Banner](Screenshot%202026-10-08%2010.08.33%20PM.png)
+
 # Hi, I'm Chinelo Akinleye 👋
 
-### Data Analyst | Power BI | SQL | Business Intelligence
+### Data Analyst | Business Intelligence | Power BI | SQL
 
-Welcome to my GitHub portfolio!
+I turn business data into meaningful insights that support smarter decisions. My portfolio showcases projects in data analytics, performance reporting, dashboard development, and business intelligence across different industries.
 
-I am passionate about using data to uncover insights, understand business performance, and support better decision-making. Here, I showcase projects involving data analysis, dashboard development, and business intelligence.
+---
 
-## 🛠️ Skills & Tools
+## 🧰 Technical Skills & Tools
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -16,36 +17,42 @@ I am passionate about using data to uncover insights, understand business perfor
 ![Tableau](https://img.shields.io/badge/Tableau-005F9E?style=for-the-badge&logo=tableau&logoColor=white)
 ![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-6D5AE6?style=for-the-badge)
 
-## 📊 Featured Projects
+---
 
-### 1. AlloyTower Inc. — Real Estate Data Analytics
+## 🚀 Featured Analytics Projects
 
-A collaborative project focused on real estate data centralization, market insights, and dashboard development. My contribution focused on data analytics and dashboards to support business reporting and decision-making.
+### 🏢 01. Real Estate Analytics & Dashboard Development — AlloyTower
 
-[View AlloyTower Project →](https://github.com/chineloakinleye/alloytower-real-estate-analytics)
+A collaborative business analysis project exploring real estate data centralization and business reporting. My contribution focused on data analytics and dashboard development to support business insights and decision-making.
 
-### 2. NovaMed Solutions — Sales Performance Analysis
+**[Explore the AlloyTower Project →](https://github.com/chineloakinleye/alloytower-real-estate-analytics)**
 
-An interactive Power BI project exploring sales performance, revenue, profitability, product performance, customer behavior, and geographic trends.
+### 💊 02. Pharmaceutical Sales & Performance Analytics — NovaMed
 
-[View my NovaMed project on GitHub](https://github.com/chineloakinleye/novamed-sales-dashboard)
+An interactive Power BI project analyzing revenue, profitability, product performance, customer contributions, and regional sales trends to identify business opportunities.
 
-### 3. BrightCart — Retail Performance Analysis
+**[Explore the NovaMed Project →](https://github.com/chineloakinleye/novamed-sales-dashboard)**
 
-An analysis of online retail traffic, conversion patterns, customer behavior, and marketing channel performance to identify opportunities for improvement.
+### 🛍️ 03. E-Commerce Insights & Retail Performance Analytics — BrightCart
 
-[View my BrightCart project on GitHub](https://github.com/chineloakinleye/Brightcart-retail-performance)
+An e-commerce analytics project exploring website traffic, customer behaviour, acquisition channels, and conversion patterns to identify opportunities for improving digital performance.
 
+**[Explore the BrightCart Project →](https://github.com/chineloakinleye/Brightcart-retail-performance)**
 
+---
 
-## 🎯 What I Focus On
+## 🎯 Areas of Analytical Focus
 
-- Turning business data into meaningful insights
-- Developing clear and informative dashboards
-- Identifying trends and performance opportunities
-- Presenting findings to support data-driven decisions
+- 📊 **Dashboard Development** — Presenting complex information through clear visualizations.
+- 📈 **Performance Analysis** — Evaluating KPIs, trends, and business performance.
+- 🔎 **Data-Driven Insights** — Identifying patterns and opportunities for improvement.
+- 💡 **Business Intelligence** — Translating analytical findings into practical recommendations.
 
-## 🤝 Connect With Me
+---
 
-- **GitHub:** [View my projects](https://github.com/chineloakinleye)
-- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/chinelo-akinleye-632366398/)
+## 🤝 Let's Connect
+
+I'm always interested in connecting with professionals and exploring opportunities to apply data analytics and business intelligence skills.
+
+- **GitHub:** [Explore my repositories](https://github.com/chineloakinleye)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/chinelo-akinleye-632366398/)
