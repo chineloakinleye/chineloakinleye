@@ -21,26 +21,31 @@ I turn business data into meaningful insights that support smarter decisions. My
 
 ## 🚀 Featured Analytics Projects
 
-### 🏢 01. Real Estate Analytics & Dashboard Development — AlloyTower
+### 🏢  Real Estate Analytics & Dashboard Development — AlloyTower
 
 A collaborative business analysis project exploring real estate data centralization and business reporting. My contribution focused on data analytics and dashboard development to support business insights and decision-making.
 
 **[Explore the AlloyTower Project →](https://github.com/chineloakinleye/alloytower-real-estate-analytics)**
 
-### 💊 02. Pharmaceutical Sales & Performance Analytics — NovaMed
+### 💊  Pharmaceutical Sales & Performance Analytics — NovaMed
 
 An interactive Power BI project analyzing revenue, profitability, product performance, customer contributions, and regional sales trends to identify business opportunities.
 
 **[Explore the NovaMed Project →](https://github.com/chineloakinleye/novamed-sales-dashboard)**
 
-### 🛍️ 03. E-Commerce Insights & Retail Performance Analytics — BrightCart
+### 🛍️  E-Commerce Insights & Retail Performance Analytics — BrightCart
 
 An e-commerce analytics project exploring website traffic, customer behaviour, acquisition channels, and conversion patterns to identify opportunities for improving digital performance.
 
 **[Explore the BrightCart Project →](https://github.com/chineloakinleye/Brightcart-retail-performance)**
 
 ---
+### 🍫 Chocolate Sales Performance Analysis — Choco de Luxe
+**Tools:** Tableau | Data Visualization | Sales Analytics
 
+Analyzed regional sales, channel effectiveness, salesperson productivity, product profitability, and organic versus non-organic demand. Developed a Tableau dashboard and provided data-driven recommendations to improve profitability and support business growth.
+
+🔗 [View Project Repository](https://github.com/chineloakinleye/choco-de-luxe-sales-analysis)
 ## 🎯 Areas of Analytical Focus
 
 - 📊 **Dashboard Development** — Presenting complex information through clear visualizations.
