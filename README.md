@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Chinelo Akinleye 👋
 
-<!--
-**chineloakinleye/chineloakinleye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Power BI | SQL | Business Intelligence
 
-Here are some ideas to get you started:
+Welcome to my GitHub portfolio!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about using data to uncover insights, understand business performance, and support better decision-making. Here, I showcase projects involving data analysis, dashboard development, and business intelligence.
+
+## 🛠️ Skills & Tools
+
+- **Business Intelligence:** Power BI
+- **Data Analysis:** SQL, Excel
+- **Data Transformation:** Power Query
+- **Data Visualization:** Power BI, Tableau
+- **Reporting:** KPIs, performance analysis, business insights
+
+## 📊 Featured Project
+
+### NovaMed Solutions — Sales Performance Analysis
+
+An interactive Power BI project exploring sales performance, revenue, profitability, product performance, customer behavior, and geographic trends.
+
+[View my NovaMed project on GitHub](https://github.com/chineloakinleye/novamed-sales-dashboard)
+
+## 🎯 What I Focus On
+
+- Turning business data into meaningful insights
+- Developing clear and informative dashboards
+- Identifying trends and performance opportunities
+- Presenting findings to support data-driven decisions
+
+## 🤝 Connect With Me
+
+- **GitHub:** [View my projects](https://github.com/chineloakinleye)
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/chinelo-akinleye-632366398/)
+
