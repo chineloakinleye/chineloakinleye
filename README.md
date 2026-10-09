@@ -18,19 +18,19 @@ I am passionate about using data to uncover insights, understand business perfor
 
 ## 📊 Featured Projects
 
-### 3. AlloyTower Inc. — Real Estate Data Analytics
+### 1. AlloyTower Inc. — Real Estate Data Analytics
 
 A collaborative project focused on real estate data centralization, market insights, and dashboard development. My contribution focused on data analytics and dashboards to support business reporting and decision-making.
 
 [View AlloyTower Project →](https://github.com/chineloakinleye/alloytower-real-estate-analytics)
 
-### 1. NovaMed Solutions — Sales Performance Analysis
+### 2. NovaMed Solutions — Sales Performance Analysis
 
 An interactive Power BI project exploring sales performance, revenue, profitability, product performance, customer behavior, and geographic trends.
 
 [View my NovaMed project on GitHub](https://github.com/chineloakinleye/novamed-sales-dashboard)
 
-### 2. BrightCart — Retail Performance Analysis
+### 3. BrightCart — Retail Performance Analysis
 
 An analysis of online retail traffic, conversion patterns, customer behavior, and marketing channel performance to identify opportunities for improvement.
 
