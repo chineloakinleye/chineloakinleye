@@ -1,42 +1,47 @@
-# Hi, I'm Chinelo Akinleye 👋
 
-### Data Analyst | Power BI | SQL | Business Intelligence
+<div align="center">
 
-Welcome to my GitHub portfolio!
+# Chinelo Akinleye
 
-I am passionate about using data to uncover insights, understand business performance, and support better decision-making. Here, I showcase projects involving data analysis, dashboard development, and business intelligence.
+### Data Analyst | Business Intelligence
 
-## 🛠️ Skills & Tools
+Turning data into insights that support better business decisions.
 
-- **Business Intelligence:** Power BI
-- **Data Analysis:** SQL, Excel
-- **Data Transformation:** Power Query
-- **Data Visualization:** Power BI, Tableau
-- **Reporting:** KPIs, performance analysis, business insights
+[LinkedIn](https://www.linkedin.com/in/chinelo-akinleye-632366398/) · [GitHub Projects](https://github.com/chineloakinleye)
 
-## 📊 Featured Project
+</div>
 
-### NovaMed Solutions — Sales Performance Analysis
-### 🛍️ BrightCart Retail Performance Analysis
-Analyzed online retail traffic, conversions, customer behavior, and marketing channel performance to identify opportunities for growth.
+---
 
-**Tools:** Excel, Data Analysis, Dashboard Reporting
+## About Me
 
-[View BrightCart Project](https://github.com/chineloakinleye/Brightcart-retail-performance)
+I'm a data analyst passionate about exploring data, building dashboards, and identifying insights that help businesses make informed decisions.
 
-An interactive Power BI project exploring sales performance, revenue, profitability, product performance, customer behavior, and geographic trends.
+## Skills
 
-[View my NovaMed project on GitHub](https://github.com/chineloakinleye/novamed-sales-dashboard)
+**Excel** · **Power BI** · **SQL** · **Data Analysis** · **Data Visualization**
 
-## 🎯 What I Focus On
+---
 
-- Turning business data into meaningful insights
-- Developing clear and informative dashboards
-- Identifying trends and performance opportunities
-- Presenting findings to support data-driven decisions
+## Featured Projects
 
-## 🤝 Connect With Me
+### 01. NovaMed Sales Dashboard
 
-- **GitHub:** [View my projects](https://github.com/chineloakinleye)
-- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/chinelo-akinleye-632366398/)
+Analyzed sales performance, revenue, profitability, product performance, and customer trends to identify business insights.
+
+[View NovaMed Project →](https://github.com/chineloakinleye/novamed-sales-dashboard)
+
+### 02. BrightCart Retail Performance
+
+Analyzed online retail traffic, conversion patterns, customer behavior, and marketing channel performance to identify improvement opportunities.
+
+[View BrightCart Project →](https://github.com/chineloakinleye/Brightcart-retail-performance)
+
+---
+
+## Let's Connect
+
+I'm interested in opportunities to apply data analysis and business intelligence to real-world problems.
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/chinelo-akinleye-632366398/)
 
