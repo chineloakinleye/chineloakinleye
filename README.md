@@ -9,11 +9,12 @@ I am passionate about using data to uncover insights, understand business perfor
 
 ## 🛠️ Skills & Tools
 
-- **Business Intelligence:** Power BI
-- **Data Analysis:** SQL, Excel
-- **Data Transformation:** Power Query
-- **Data Visualization:** Power BI, Tableau
-- **Reporting:** KPIs, performance analysis, business insights
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-5B4BCE?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-005F9E?style=for-the-badge&logo=tableau&logoColor=white)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-6D5AE6?style=for-the-badge)
 
 ## 📊 Featured Projects
 
