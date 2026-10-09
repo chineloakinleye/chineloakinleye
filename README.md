@@ -17,6 +17,12 @@ I am passionate about using data to uncover insights, understand business perfor
 ## 📊 Featured Project
 
 ### NovaMed Solutions — Sales Performance Analysis
+### 🛍️ BrightCart Retail Performance Analysis
+Analyzed online retail traffic, conversions, customer behavior, and marketing channel performance to identify opportunities for growth.
+
+**Tools:** Excel, Data Analysis, Dashboard Reporting
+
+[View BrightCart Project](https://github.com/chineloakinleye/Brightcart-retail-performance)
 
 An interactive Power BI project exploring sales performance, revenue, profitability, product performance, customer behavior, and geographic trends.
 
